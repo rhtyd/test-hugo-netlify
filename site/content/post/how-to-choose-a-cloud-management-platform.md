@@ -1,6 +1,6 @@
 ---
 title: "How to Choose a Cloud Management Platform "
-date: 2021-06-28T12:21:46.886Z
+date: 2021-06-28T12:41:03.001Z
 description: As more and more companies build internal private clouds or enter
   the service provider market with public clouds, the more they will need the
   right set of tools to successfully build, manage and scale their
